@@ -395,7 +395,7 @@ Using raw data for which you have access, use the chapter as a rough guide.  You
 
 ![Image of a filmstrip](images/film-strip-1.jpg){#id .class width=620 height=211}
 
-### Importing data from an exported Qualtrics .csv file
+### Using data from an exported Qualtrics .csv file
 
 The lecture focused on the "intRavenous" import.  It is is also possible to download the Qualtrics data in a variety of formats (e.g., CSV, Excel, SPSS).  Since I got started using files with the CSV extension (think "Excel" lite), that is my preference.
 
